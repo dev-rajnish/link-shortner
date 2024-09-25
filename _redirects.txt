@@ -1,2 +1,3 @@
 /eg https://example.com
 /free-dev-res free-for.dev
+/github https://github.com/dev-rajnish
