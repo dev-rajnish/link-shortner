@@ -1,10 +1,28 @@
 {
   "hosting": {
     "public": "public",
+    "site": "rsh",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/go",
+        "destination": "https://google.com",
+        "type": 301
+      },
+      {
+        "source": "/eg",
+        "destination": "https://example.com",
+        "type": 301
+      },
+      {
+        "source": "/free-dev-res",
+        "destination": "free-for.dev",
+        "type": 301
+      }
     ]
   }
 }
