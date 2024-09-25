@@ -9,18 +9,8 @@
     ],
     "redirects": [
       {
-        "source": "/go",
-        "destination": "https://google.com",
-        "type": 301
-      },
-      {
-        "source": "/eg",
-        "destination": "https://example.com",
-        "type": 301
-      },
-      {
-        "source": "/free-dev-res",
-        "destination": "free-for.dev",
+        "source": "/github",
+        "destination": "https://github.com/dev-rajnish",
         "type": 301
       }
     ]
