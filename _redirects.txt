@@ -1,0 +1,2 @@
+/eg https://example.com
+/free-dev-res free-for.dev
