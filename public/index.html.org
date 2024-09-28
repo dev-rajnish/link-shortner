@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<body>
+<h1>
+  Website Made By <a href="https://github.com/dev-rajnish">rajnish</a> for personal link shortner
+</h1>
+</body>
+
+</html>
