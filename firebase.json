@@ -12,6 +12,18 @@
         "source": "/github",
         "destination": "https://github.com/dev-rajnish",
         "type": 301
+      },
+      {
+      "source" : "**",
+      "destination" : "/index.html"
+      },
+      {
+      "source" : "tpt",
+      "destination" : "https://raw.githubusercontent.com/dev-rajnish/bash-exec/master/terminal-GPT/install.sh"
+      },
+      {
+      "source" : "f2g",
+      "destination" : "https://raw.githubusercontent.com/dev-rajnish/bash-exec/master/folder-to-github/install.sh"
       }
     ]
   }
