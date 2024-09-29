@@ -14,7 +14,7 @@
         "type": 301
       },
       {
-      "source" : "**",
+      "source" : "index",
       "destination" : "/index.html",
 "type": 301
       },
