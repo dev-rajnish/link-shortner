@@ -15,15 +15,18 @@
       },
       {
       "source" : "**",
-      "destination" : "/index.html"
+      "destination" : "/index.html",
+"type": 301
       },
       {
       "source" : "tpt",
-      "destination" : "https://raw.githubusercontent.com/dev-rajnish/bash-exec/master/terminal-GPT/install.sh"
+      "destination" : "https://raw.githubusercontent.com/dev-rajnish/bash-exec/master/terminal-GPT/install.sh",
+"type": 301
       },
       {
       "source" : "f2g",
-      "destination" : "https://raw.githubusercontent.com/dev-rajnish/bash-exec/master/folder-to-github/install.sh"
+      "destination" : "https://raw.githubusercontent.com/dev-rajnish/bash-exec/master/folder-to-github/install.sh",
+"type": 301
       }
     ]
   }
